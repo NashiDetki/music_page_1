@@ -1,0 +1,65 @@
+div {
+  width: 500px;
+  height: 500px;
+  background-color: aqua;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  border: 2px solid violet;
+  box-shadow: 0px 0px 33px azure;
+}
+
+img {
+  width: 253px;
+  height: 243px;
+}
+
+h1 {
+  width: 454px;
+  height: 16px;
+  color: red;
+  font-size: 35px;
+  font-style: italic;
+  font-family: "Courier New", Courier, monospace;
+  text-transform: uppercase;
+  margin-top: 37px;
+}
+
+h2 {
+  width: 454px;
+  height: 19px;
+  color: red;
+  font-size: 35px;
+  font-style: italic;
+  font-family: "Courier New", Courier, monospace;
+  text-transform: uppercase;
+  margin-top: 37px;
+}
+
+h3 {
+  width: 389px;
+  height: 10px;
+  margin-top: 3px;
+  font-size: 23px;
+}
+
+h4 {
+  width: 527px;
+  height: 20px;
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+a {
+  display: block;
+  color: rgb(255, 0, 0);
+  font-size: 27px;
+  text-decoration: none;
+  width: 578px;
+  text-transform: uppercase;
+  font-style: italic;
+}
+h6{
+    width: 153px;
+}
